@@ -1,5 +1,5 @@
 {
-  "name": "Copy of ScamShield",
+  "name": "ScamShield",
   "description": "A comprehensive AI-powered cybersecurity suite featuring URL analysis, spam detection, anomaly detection, and security education. Powered by React and Gemini.",
   "requestFramePermissions": []
 }
